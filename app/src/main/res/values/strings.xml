@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_list_pokemon">Erro ao obter os Pokemons</string>
+    <string name="permission_title">Permissão de Armazenamento</string>
+    <string name="permission_message">Necessário permitir o uso do armazenamento interno para continuar</string>
+
+</resources>
